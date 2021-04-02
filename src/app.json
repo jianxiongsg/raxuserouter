@@ -1,0 +1,12 @@
+{
+    "routes":[
+        {
+            "path":"/a",
+            "source":"components/AnimUI/index"
+        },
+        {
+            "path":"/b",
+            "source":"components/LoadingUI/index"
+        }
+    ]
+}
